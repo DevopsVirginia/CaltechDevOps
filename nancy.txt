@@ -1,0 +1,3 @@
+hello nancy
+how is the class going?
+We are learning DevOps
